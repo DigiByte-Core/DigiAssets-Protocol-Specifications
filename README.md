@@ -9,6 +9,7 @@ DigiAssets leverages unique aspects of a truly decentralized blockchain only fou
 1. [Home](../../wiki/)
 1. [Introduction](../../wiki/Introduction)
 1. [Benefits](../../wiki/Benefits)
+1. [Getting Started](../../wiki/Getting-Started)
 
 ## Technical
 1. [DigiAsset Scheme](../../wiki/DigiAsset-Scheme)
