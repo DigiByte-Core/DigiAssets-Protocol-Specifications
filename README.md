@@ -10,6 +10,7 @@ DigiAssets leverages unique aspects of a truly decentralized blockchain only fou
 1. [Introduction](../../wiki/Introduction)
 1. [Benefits](../../wiki/Benefits)
 1. [Getting Started](../../wiki/Getting-Started)
+1. [API Docs](../../wiki/API-Docs)
 
 ## Technical
 1. [DigiAsset Scheme](../../wiki/DigiAsset-Scheme)
@@ -17,7 +18,7 @@ DigiAssets leverages unique aspects of a truly decentralized blockchain only fou
   1. [Transfer Instructions](../../wiki/Transfer-Instructions)
   1. [Number Encoding](../../wiki/Number-Encoding)
   1. [Asset ID](../../wiki/Asset-ID)
-  1. [Colored Addresses](../../wiki/Colored-Addresses)
+  1. [DigiAsset Addresses](../../wiki/DigiAsset-Addresses)
   1. [Asset Verification](../../wiki/Asset-Verification)
 1. [Metadata Handling](../../wiki/Metadata)
  1. [Static Data](../../wiki/Static-Data)
